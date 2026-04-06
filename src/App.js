@@ -1,11 +1,13 @@
 import Header from './components/Header';
 import './App.css';
+import Body from './components/Body';
 
 function App() {
   return (
     <div >
-      <p className="text-red-600">Hello</p>
+    
       <Header/>
+      <Body/>
       
     </div>
   );
