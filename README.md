@@ -19,6 +19,11 @@
  - created GIT Repo
  - Created required ENV for the project
  - created Header , Body ,and  containers
- - now creating store using redux toolkit
+ - now created store using redux toolkit
+ - created sidebar with the help of the condition and useSelector();
+ - created the buttons in maincontainer
+ - created the VIdeocontainer using the fetched API and redered data using the MAP functionin the react/JS.
+ - creating the routers in JS now using the react-router-DOM
+ - 
  
 
