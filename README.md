@@ -11,3 +11,14 @@
 
           
 
+
+
+# Project :
+ - Create React Application 
+ - install tailwind / integrate tailwind
+ - created GIT Repo
+ - Created required ENV for the project
+ - created Header , Body ,and  containers
+ - now creating store using redux toolkit
+ 
+
