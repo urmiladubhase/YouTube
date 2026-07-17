@@ -27,3 +27,10 @@
  - 
  
 
+ 
+# DEBOUNCING-
+-  If you are typing something fast then the difference between the two key pressing is very less
+- if slow the diff is more
+- 
+
+
