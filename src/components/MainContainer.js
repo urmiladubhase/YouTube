@@ -2,7 +2,6 @@ import React from 'react'
 import Button from './Button'
 import VideoContainer from './VideoContainer'
 
-
 const MainContainer = () => {
   return (
     <div>
@@ -24,6 +23,7 @@ const MainContainer = () => {
     <div className='flex'>
       <VideoContainer/>
     </div>
+  
     </div>
 
     

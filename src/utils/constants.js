@@ -4,4 +4,4 @@ export const USER_ICON = "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJQAAACU
 export const SEARCH = "https://cdn.iconscout.com/icon/free/png-512/free-search-icon-svg-download-png-527970.png?f=webp&w=512"
 const  GOOGLE_API_KEY = process.env.REACT_APP_API_YOUTUBE_KEY;
 export const YOUTUBE_VIDEOS_API =`https://youtube.googleapis.com/youtube/v3/videos?part=snippet,contentDetails,statistics&chart=mostPopular&maxResults=50&regionCode=IN&key=${GOOGLE_API_KEY}`;  
-export const YOUTUBE_EARCH_API = "http://suggestqueries.google.com/complete/search?client=firefox&ds=yt&q=";
+export const YOUTUBE_SEARCH_API = "http://suggestqueries.google.com/complete/search?client=firefox&ds=yt&q=";
